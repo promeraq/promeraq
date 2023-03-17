@@ -1,9 +1,9 @@
 ### Hi there! 👋 My name is Pablo Romera
 -----------------------------------------------------------------------------------------------------------------------
 
-I am a Project Manager changing my life path to Full Stack Development.
+I am a Project Manager changing his life path to Full Stack Development.
 -----------------------------------------------------------------------------------------------------------------------
-
+<br></br>
 -   🌍  I'm based in San Sebastian, Spain
 -   🔭 I’m currently working on my portfolio, an e-commerce for handmade jewelry and an e-commerce for surf fins 
 -   🖥️  See my portfolio soon at ...
