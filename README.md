@@ -1,7 +1,7 @@
 ### Hi there! 👋 My name is Pablo Romera
-================================================================================================================
+-----------------------------------------------------------------------------------------------------------------------
 
-I am a Mechanical Engineer, currently working as a Project Manager and changing my life path to Full Stack Development.
+I am a Project Manager changing my life path to Full Stack Development.
 -----------------------------------------------------------------------------------------------------------------------
 
 -   🌍  I'm based in San Sebastian, Spain
