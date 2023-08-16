@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------------
 
 
-I am a Project Manager changing his life path to Full Stack Development.
+Project Manager at a Waste Managament Company and Frontend Developer.
 -----------------------------------------------------------------------------------------------------------------------
 
 -   🌍  I'm based in San Sebastian, Spain
