@@ -6,9 +6,9 @@ I am a Project Manager changing his life path to Full Stack Development.
 -----------------------------------------------------------------------------------------------------------------------
 
 -   🌍  I'm based in San Sebastian, Spain
--   🔭 I’m currently working on my portfolio, an e-commerce for handmade jewelry and an e-commerce for surf fins 
--   🖥️  See my portfolio soon at www.pabloromera.com
--   🧠  Currently learning TypeScript and Node Js 
+-   🔭  I’m currently working on a catalog for handmade jewelry and an e-commerce for natural doag soap.
+-   🖥️  www.studioroma.dev
+-   🧠  Currently getting better at TypeScript and Node Js 
 
 ### Skills
 
