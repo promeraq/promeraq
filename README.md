@@ -6,7 +6,6 @@ Project Manager at a Waste Managament Company and Frontend Developer.
 -----------------------------------------------------------------------------------------------------------------------
 
 -   🌍  I'm based in San Sebastian, Spain
--   🔭  I’m currently working on a catalog for handmade jewelry and an e-commerce for natural doag soap.
 -   🖥️  www.studioroma.dev
 -   🧠  Getting better at TypeScript and Node Js 
 
